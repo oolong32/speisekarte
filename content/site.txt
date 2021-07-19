@@ -1,1 +1,5 @@
-Title: Site Title
+Title: Restaurant Foo
+
+----
+
+telefon: +41 77 777 77 77
