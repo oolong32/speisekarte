@@ -4,5 +4,39 @@
 }
 
 body {
-  background: tomato;
+  background: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
+
+footer {
+  margin-top: auto;
+}
+
+a.un-deco {
+  text-decoration: none;
+  color: black;
+}
+
+ul.unstyled {
+  padding: 0;
+  list-style: none;
+
+}
+
+#getraenkekarte li,
+#speisekarte li {
+  margin-bottom: 2rem;
+  display: grid;
+  grid-template-columns: 1fr max-content;
+}
+.price { text-align: right; }
+.details { grid-column: 1/-1;}
+.vegan { 
+  grid-column: 1/-1;
+  color: green;
+}
+
+#speisekarte h3,
+#speisekarte p { margin: 0; }

@@ -1,0 +1,13 @@
+Title: Ingwer-Falafel
+
+----
+
+Details: Schmeckt vorzüglich, mit Ketchup!
+
+----
+
+Price: 25
+
+----
+
+Vegan: true

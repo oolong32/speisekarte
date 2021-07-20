@@ -1,0 +1,16 @@
+title: Karteneintrag
+preset: page
+fields:
+  details:
+    label: Beschreibung
+    type: text
+  price:
+    label: Preis
+    type: number
+    step: 1
+  vegan:
+    label: Vegan
+    type: toggle
+    test:
+      - "Ja"
+      - "Nein"

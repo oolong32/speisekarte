@@ -1,0 +1,13 @@
+Title: Tofu mit etwas
+
+----
+
+Details: Tofu Tofu das ist das Grösste
+
+----
+
+Price: 20
+
+----
+
+Vegan: true
